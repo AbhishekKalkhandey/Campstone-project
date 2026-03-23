@@ -1,1 +1,1 @@
-# internship-project
+# Capstone-project
